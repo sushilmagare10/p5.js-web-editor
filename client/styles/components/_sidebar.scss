@@ -250,7 +250,8 @@
 .sidebar__expand {
   display: none;
   &:hover {
-    cursor: pointer;
+    cursor: pointer
+    ;
   }
   .sidebar--contracted & {
     display: flex;
